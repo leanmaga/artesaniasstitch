@@ -72,7 +72,7 @@ const Template = () => {
     window.addEventListener("resize", handleResize);
 
     const gltfLoader = new GLTFLoader();
-    gltfLoader.load("./models/scene.gltf", loadModel);
+    gltfLoader.load("scene.gltf", loadModel);
 
     const animate = () => {
       orbitControlsRef.current.update();
