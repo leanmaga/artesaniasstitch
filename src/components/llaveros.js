@@ -1,0 +1,16 @@
+import img1 from '../assets/llaveros/1.jpg'
+import img2 from '../assets/llaveros/2.jpg'
+import img3 from '../assets/llaveros/3.jpg'
+import img4 from '../assets/llaveros/4.jpg'
+import img5 from '../assets/llaveros/5.webp'
+import img6 from '../assets/llaveros/6.webp'
+import img7 from '../assets/llaveros/7.webp'
+import img8 from '../assets/llaveros/8.webp'
+import img9 from '../assets/llaveros/9.jpg'
+import img10 from '../assets/llaveros/10.jpg'
+import img11 from '../assets/llaveros/11.jpg'
+import img12 from '../assets/llaveros/12.jpg'
+import img13 from '../assets/llaveros/13.jpg'
+import img14 from '../assets/llaveros/14.webp'
+
+export default [img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12, img13, img14]

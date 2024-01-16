@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stitch (Fan Art)
+* source:	https://sketchfab.com/3d-models/stitch-fan-art-65880617586342db903f9236c014aeab
+* author:	Bema (https://sketchfab.com/Nastya.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stitch (Fan Art)" (https://sketchfab.com/3d-models/stitch-fan-art-65880617586342db903f9236c014aeab) by Bema (https://sketchfab.com/Nastya.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
